@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "krrish",
-  },
+    },
   projects: [
     {
       name: `morethan-log`,
