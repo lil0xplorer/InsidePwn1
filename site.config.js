@@ -15,7 +15,7 @@ const CONFIG = {
       name: ``,
       href: "",
     },
-  ]
+  ],
   // blog setting (required)
   blog: {
     title: "morethan-log",
